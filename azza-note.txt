@@ -15,6 +15,7 @@ git/github workshop notes :
 * merging changes from your branch to the main: -git merge "feature_name"
 * shows the commit history : - git log 
 * merges changes from the remote repository to your local repository :-git pull main 
+*
 
 
 
