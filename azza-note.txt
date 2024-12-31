@@ -1,3 +1,21 @@
 hello :
 git/github workshop notes :
+*configuration : - git config --global user.name "Your Name" 
+                 - git config --global user.email "your email"
+* git init 
+* create a file : -touch <nom-file>
+* modify your work :-git add . ( to modify all files )
+                    -git add (file nam)
+* save your work: -git commit -m "significant message"
+* show the status of the working directory :-git status
+* clone an existing git repository from a remote source :-git add remote <remote name> url 
+* push your local commits to the remote :git push -u <remote name> < branch name >
+* list all branches :- git branch
+* create new branch :- git checkout -b "feature_name"
+* merging changes from your branch to the main: -git merge "feature_name"
+* shows the commit history : - git log 
+* merges changes from the remote repository to your local repository :-git pull main 
+
+
+
  
