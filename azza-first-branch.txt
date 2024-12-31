@@ -1,0 +1,5 @@
+the advantages of branching :
+* multiple team members can work on different features  at the same time without interfering with each other’s work
+* minimizes the risk of conflicts by isolating work into separate branches
+* facilitate the process of code reviews
+* try new things without worrying about affecting the production code
